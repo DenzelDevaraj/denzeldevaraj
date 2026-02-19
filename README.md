@@ -1,14 +1,10 @@
 # Hi, I'm Denzel
 
-I'm a Business Analytics and Information Systems graduate from the University of Auckland, passionate about turning data into clear, actionable business insights. 
+I'm a Business Analytics and Information Systems graduate from the University of Auckland. I'll be honest — I stumbled into analytics. I started university studying Film and Communications at Victoria University of Wellington, drawn to storytelling and how ideas are communicated. I didn't plan to end up working with data.
 
-I'm someone who's always been drawn to the space where business thinking and technology meet. I like that data isn't just numbers; it's the story behind decisions, and I enjoy being the person who helps make that story clear.
+But somewhere along the way, it clicked. I realised that analytics is storytelling, just with different raw material. The same instinct that makes you want to understand why a film works, why a scene lands, why an audience feels something — that same curiosity transfers remarkably well to asking why a trend is emerging, why a number looks wrong, or what a dataset is actually trying to tell you. That foundation in storytelling and communication still shapes everything about how I approach data work. I don't just want to find the insight; I want to communicate it in a way that actually lands with people.
 
-I started university studying Film and Communications at Victoria University of Wellington, which gave me a strong foundation in storytelling and communication before I pivoted into analytics. I think that background still shapes how I approach data work. I'm always thinking about how to communicate findings in a way that actually lands with people, not just technically, but meaningfully.
-
-Outside of work I'm involved in my local Catholic community, which keeps me grounded and connected to something bigger than myself. I'm also a big sports and fitness person, and I still love film — so you'll often find me at the gym, at church, or rewatching something I've already seen three times.
-
-I'm collaborative by nature. I do my best work alongside people, not just for them.
+I'm detail-oriented and I care about getting things right, not just getting them done. Outside of work I'm active in my local Catholic community, watch F1 and work out, and still love film and music, things that keep me grounded and remind me there's more to life than a pivot table.
 
 ---
 
